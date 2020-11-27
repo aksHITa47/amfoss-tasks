@@ -17,6 +17,6 @@ for repo in user.get_repos():
         import json
         pyob=json.loads(commit)
         with open("commits.json", "w") as write_file:
-            json.dump(commits, write_file)
+            json.dump(pyob, write_file)
        
  
