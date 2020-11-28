@@ -1,7 +1,4 @@
-import base64
-from perceval.backends.core.git import Git
 from github import Github
-from pprint import pprint
 import json
 import os
 # Github username
