@@ -34,5 +34,10 @@ int main()
     //cout<<"\n";
     
     cout <<getMin(array3, N);
-    
+   
+  return 0;
 }
+
+       
+
+       
