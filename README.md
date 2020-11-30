@@ -4,7 +4,7 @@ This is Akshita Singh, fresher at Amrita School of Engineering (ECE 2020)
 ## Table of Contents 
 |  **Task**                                                                      | **Description**              |
 |--------------------------------------------------------------------------------| :---------------------------:|           
-|  [task-00]()                                                                   | Installing Ubuntu            |
+|  [task-00](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-00)        |    Installing Ubuntu         |
 |  [task-01](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-01)        | Star all amFOSS repositories | 
 |  [task-02](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-02)        | Register nick in IRCFreenode |
 |  [task-03]()                                                                   | Programming                  |
