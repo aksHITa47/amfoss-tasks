@@ -374,7 +374,7 @@ public class MathQuiz extends JFrame {
                     String stringcount = Integer.toString(correctCount); // getting integer to string
                     countLabel.setText(stringcount); // setting string to label    
                 } else {
-                    wrongCount += 1; // increasing wrong counter //23 earlier
+                    wrongCount += 1; // increasing wrong counter by 1 instead of 23
                 }
 
                 input.setText(""); // clearing input after user entered answer
