@@ -10,7 +10,7 @@ social skills. So, I think being a part of this communiy will help me a lot.
 
 ### What is your plan for the next 6 months?
 
-Well, study for a good CGPA. Polish my coding skills and delve more into the world of open source community.  
+Study for a good CGPA. Polish my coding skills and delve more into the world of open source community.  
 
 ### How would you contribute back to the club?
 
