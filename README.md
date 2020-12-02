@@ -10,6 +10,7 @@ This is Akshita Singh, fresher at Amrita School of Engineering (ECE 2020)
 |  [task-03](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-03)        |Programming                   |
 |  [task-04](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-04)        | Debugging JAVA code          |
 |  [task-08](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-08)        | Fetch commits using Perceval |
+|  [task-09](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-09)        | Github Gist Spammer(as advised by seniors)|
 |  [task-11](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-11)        | Poster using Canva           |
 |  [task-14](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-14)        | Bandit                       |
 |  [task-15](https://github.com/aksHITa47/amfoss-tasks/tree/main/task-15)        | Project Euler                |
