@@ -7,4 +7,6 @@ is not available as such.
 * [w3schools](https://www.w3schools.com/js/js_htmldom_document.asp)
 * [javaTpoint](https://www.javatpoint.com/what-is-vanilla-javascript)
 
+*Here's the GitHub Gist I created* [spomment.js](https://gist.github.com/aksHITa47/66b5181ad7f140b9b190273710501569)
+
 
