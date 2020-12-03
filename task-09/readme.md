@@ -8,5 +8,4 @@ is not available as such.
 * [javaTpoint](https://www.javatpoint.com/what-is-vanilla-javascript)
 
 *Here's the GitHub Gist I created* [spomment.js](https://gist.github.com/aksHITa47/66b5181ad7f140b9b190273710501569)
-
-
+*Here’s the gist I spammed* [gist spammer](https://gist.github.com/vchrombie/40c8c28ff8c8bcf207c563e939304726)
