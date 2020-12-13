@@ -16,3 +16,4 @@ for i in range(n-2,0,-2):
         print("D",end="")
     for j in range(n-i,0,-2):
         print("*",end="")
+    print()
